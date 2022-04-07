@@ -1,4 +1,33 @@
-# Relatório do projeto         
+---
+title: "Relatório do projeto"
+output:
+  pdf_document: default
+  html_document:
+    includes:
+      in_header: C:/Programacao/Markdown/header.html
+    highlight: pygments
+    theme: null
+    css: C:/Programacao/Markdown/Estilo_docs_Rmarkdown2.css
+---
+         
+<style>          
+body {
+  box-sizing: border-box;
+  min-width: 1366px;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 15px;
+  padding-top: 0px;
+}
+</style>   
+         
+
+         
+# Sobre o Projeto:    
+ - Projeto de irrigação feito para a conclusão do curso "**Fundamento de Internet das Coisas**"     
+ - Local: Escola SENAI "Anchieta"     
+ - Data: **01/06/2019**    
+       
 
 
 # 1 - Objetivo do projeto:       
@@ -126,7 +155,7 @@
  - 3 - Após subscrever em um tópico, as mensagens enviadas em cada tópico poderão ser visualizadas dentro da opção **Dashboard**, no menu principal do aplicativo.     
           
 
-![Foto_04](./Fotos/FotoRelatorio_03_SubscricoesTopicosMyMQTT.png)      
+![Foto_04](./Fotos/FotoRelatorio_04_MensagensRecebidas.png)      
         
 
 ### 3.2.3 - Alterar os valores de umidade máxima e mínima:         
