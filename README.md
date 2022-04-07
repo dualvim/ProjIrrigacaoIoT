@@ -126,7 +126,7 @@
  - 3 - Após subscrever em um tópico, as mensagens enviadas em cada tópico poderão ser visualizadas dentro da opção **Dashboard**, no menu principal do aplicativo.     
           
 
-![Foto_04](./Fotos/FotoRelatorio_03_SubscricoesTopicosMyMQTT.png)      
+![Foto_04](./Fotos/FotoRelatorio_04_MensagensRecebidas.png)      
         
 
 ### 3.2.3 - Alterar os valores de umidade máxima e mínima:         
